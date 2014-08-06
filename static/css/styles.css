@@ -1,0 +1,24 @@
+h1,
+h2,
+body {
+  font-family: 'Lato', sans-serif;
+}
+h1 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+h2 {
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+}
+body {
+  font-weight: 400;
+}
+.wrapper {
+  width: 90%;
+  margin: 3rem 3rem;
+  max-width: 650px;
+  /*min-width: 410px;*/
+}

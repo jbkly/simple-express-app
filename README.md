@@ -1,4 +1,4 @@
-a static page express app
+A Static Page ExpressJS App
 ==================
 
-a static file serving express app, including at least one link, one css style sheet and one javascript file.
+A static file-serving ExpressJS app, including at least one link, one CSS style sheet, and one JavaScript file.
