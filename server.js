@@ -3,7 +3,7 @@ var express = require('express'),
     app = express();
 
 function start() {
-  app.use(express.static(__dirname + '/static'));
+  app.use(express.static(__dirname + '/dist'));
 
   var server = http.createServer(app);
   server.listen(3000, function() {

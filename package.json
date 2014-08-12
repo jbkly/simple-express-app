@@ -18,5 +18,11 @@
   "homepage": "https://github.com/jbkly/simple-express-app",
   "dependencies": {
     "express": "^4.7.4"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "debowerify": "^0.8.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0"
   }
 }
