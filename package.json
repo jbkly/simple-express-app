@@ -25,6 +25,7 @@
     "debowerify": "^0.8.1",
     "grunt": "^0.4.5",
     "grunt-browserify": "^2.1.4",
-    "grunt-contrib-jshint": "^0.10.0"
+    "grunt-contrib-jshint": "^0.10.0",
+    "mocha": "^1.21.4"
   }
 }
